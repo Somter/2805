@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../Dz_27.05/dz"
+		},
+		{
+			"path": "../../../2705/props"
+		},
+		{
+			"path": "../../../2805/1"
+		},
+		{
+			"path": "../../../2805/хуки"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../my-app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "хуки"
+	}
+}
